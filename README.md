@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Ruby Dawson, and I am a student at ASU studying for a degree in Full-Stack Web Development! I love to be creative and spend time crafting and creating. I get inspired by listening to music and learning new hobbies! 
 
 <!--
 **RDawson8/RDawson8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
